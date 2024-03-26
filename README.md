@@ -5,7 +5,7 @@
 
 
 In the cloud native era, infrastructure as code (IaC) is a critical part of ensuring consistency and reusability. Most public providers have a version of IaC they offer; for AWS, it is CloudFormation.
-
+   
 CloudFormation helps you model your resources by describing it in a template that can be deployed as a stack on AWS. With CloudFormation, you can go from creating resources from the console to automating complex architecture on demand. Let’s get started with these basics of AWS CloudFormation.
 
 # (This tutorial is part of our AWS Guide. Use the right-hand menu to navigate.)
