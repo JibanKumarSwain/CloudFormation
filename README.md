@@ -12,7 +12,7 @@ CloudFormation helps you model your resources by describing it in a template tha
       
 The benefits of using CloudFormation
 CloudFormation offers a variety of benefits, including:
-
+    
 # Improved automation. 
 
 The simplicity of the template allows you to declare what you want your resources to look like. This eliminates the need to rely on other scripting tools to create the resources.
