@@ -32,7 +32,7 @@ If you are in the web application or microservice space, you have used yaml or J
 ## How does CloudFormation work?
  
 There are three concepts you need to be aware of when using CloudFormation, and these concepts are fundamental to how it works:
-
+     
 Template
 Stack      
 Change Set
