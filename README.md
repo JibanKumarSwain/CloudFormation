@@ -60,7 +60,7 @@ Properties:
 ImageId: "ami-0f7919c33c90f5b58"
 
 InstanceType: t2.nano
-
+     
 KeyName: testkey
 
 MyEIP:
