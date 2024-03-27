@@ -17,7 +17,7 @@ CloudFormation offers a variety of benefits, including:
 
 The simplicity of the template allows you to declare what you want your resources to look like. This eliminates the need to rely on other scripting tools to create the resources.
 
-# Quick infrastructure replication. 
+# Quick infrastructure replication.      
 
 You can quickly replicate your infrastructure without affecting other resources that your template previously created. The template can be used to create as many stacks as needed.
 
