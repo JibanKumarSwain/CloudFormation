@@ -36,7 +36,7 @@ There are three concepts you need to be aware of when using CloudFormation, and 
 Template
 Stack      
 Change Set
-Let’s look at each.
+Let’s look at each.      
 
 # Template
 A template is a declarative way of defining your resources as a yaml or json file. This template can then be used to deploy the resources either using the console or CLI.
