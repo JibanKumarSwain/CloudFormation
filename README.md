@@ -9,7 +9,8 @@ In the cloud native era, infrastructure as code (IaC) is a critical part of ensu
        
 CloudFormation helps you model your resources by describing it in a template that can be deployed as a stack on AWS. With CloudFormation, you can go from creating resources from the console to automating complex architecture on demand. Let’s get started with these basics of AWS CloudFormation.
    
-# (This tutorial is part of our AWS Guide. Use the right-hand menu to navigate.)             
+# (This tutorial is part of our AWS Guide. Use the right-hand menu to navigate.)      
+__________________
       
 The benefits of using CloudFormation
 CloudFormation offers a variety of benefits, including:
