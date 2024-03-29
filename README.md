@@ -17,22 +17,25 @@ CloudFormation offers a variety of benefits, including:
     
 # Improved automation.      
 
+___________________
 The simplicity of the template allows you to declare what you want your resources to look like. This eliminates the need to rely on other scripting tools to create the resources.
 
 # Quick infrastructure replication.      
-
+____________________________
 You can quickly replicate your infrastructure without affecting other resources that your template previously created. The template can be used to create as many stacks as needed.
 
-# Infrastructure consistency. 
+# Infrastructure consistency.
+____________________________
 
 The declarative way of defining templates allows for consistency—you can be assured that stacks created with the template will be identical.
 
 # Easy-to-read template. 
+_____________________________
 
 If you are in the web application or microservice space, you have used yaml or JSON at some point. They are both widely used, therefore making it easy to understand or find resources on it.
 
 ## How does CloudFormation work?
- 
+ ______________________________
 There are three concepts you need to be aware of when using CloudFormation, and these concepts are fundamental to how it works:
         
 Template
