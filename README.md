@@ -3,7 +3,7 @@
 ______________________________
 
    
-
+     
        
 In the cloud native era, infrastructure as code (IaC) is a critical part of ensuring consistency and reusability. Most public providers have a version of IaC they offer; for AWS, it is CloudFormation.
              
